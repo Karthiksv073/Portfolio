@@ -1,0 +1,23 @@
+body{
+    background-color: #333;
+}
+h1{
+    color:lightskyblue;
+    font-size: 50px;
+    padding: 20px;
+}
+p{
+    color:white;
+    font-size:30px;
+    padding: 20px;
+}
+a{
+    font-size:40px;
+    padding: 50px;
+    color: aqua;
+    
+}
+img{
+    width:170px;
+    padding: 60px;
+}
